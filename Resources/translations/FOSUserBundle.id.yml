@@ -18,7 +18,7 @@ security:
     login:
         username: "Nama Pengguna:"
         password: "Password:"
-        remember_me: Selalu Ingat Saya
+        remember_me: Ingat Saya
         submit: Login
 
 # Profile
